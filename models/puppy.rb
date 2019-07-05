@@ -7,4 +7,4 @@ class Puppy
     @months_old = months_old
   end
 
- end
+end
